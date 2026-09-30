@@ -66,7 +66,7 @@ I’m a Computer Science student passionate about building modern web applicatio
 
 ## 🎓 Training & Learning
 
-* 💻 **NTI — MEAN Stack Development** — 95%
+* 💻 **NTI — MEAN Stack Development** 
 * 🛡️ **NTI — Cybersecurity Training**
 * 🌐 **NextGen — MarTech Track**
 * 📚 Continuous learning in Full-Stack Development, Cybersecurity, and Computer Science
